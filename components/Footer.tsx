@@ -27,7 +27,7 @@ export default function Footer() {
       <div className="flex space-x-4 pb-4 sm:pb-0">
      
         {/* <Link
-          href="https://github.com/osanseviero/geminicoder"
+          href="https://github.com/ShayanAhmed-0/AICoder"
           className="group"
           aria-label="TaxPal on GitHub"
           target="_blank"
